@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Agriculture7</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="enter_your_phone">Enter your phone</string>
+</resources>
